@@ -1,2 +1,4 @@
 # Call-centre-analytics-dashboard
 Interactive Excel dashboard for analyzing call centre performance, customer ratings, call trends, representative performance, revenue, and regional call activity.
+## Project Overview
+The Call Centre Analytics Dashboard is an interactive Excel-based data analytics project designed to analyze call centre performance and provide meaningful insights into calls, revenue, call duration, customer ratings, representatives, and regional performance.The dashboard transforms raw call centre data into an interactive visual report using charts, KPI cards, PivotTables, slicers, conditional formatting, and other Excel data-analysis features.The main objective of this project is to help management quickly understand call centre performance and identify trends, high-performing representatives, customer satisfaction levels, and revenue contribution.
