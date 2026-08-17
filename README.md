@@ -39,4 +39,6 @@ This dashboard can help call centre management:
 * Make better staffing and resource allocation decisions.
 * Quickly monitor important KPIs from a single dashboard.
 ## Project Files
-[Call centre Dataset]()
+[Call centre Dataset](https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20Data%20set.xlsx)
+[Dashboard] ()
+
