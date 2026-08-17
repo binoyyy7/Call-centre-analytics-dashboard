@@ -38,8 +38,14 @@ This dashboard can help call centre management:
 * Track revenue generated through calls.
 * Make better staffing and resource allocation decisions.
 * Quickly monitor important KPIs from a single dashboard.
+  
 ## Project Files
 [Call centre Dataset](https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20Data%20set.xlsx)
-[Dashboard] (https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20report%20dashboard.xlsx)
-[Dashboard Screenshot]()
+
+[Dashboard](https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20report%20dashboard.xlsx)
+
+[Dashboard Screenshot](https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20report.png)
+
+
+
 
