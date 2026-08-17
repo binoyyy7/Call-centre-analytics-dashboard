@@ -40,5 +40,6 @@ This dashboard can help call centre management:
 * Quickly monitor important KPIs from a single dashboard.
 ## Project Files
 [Call centre Dataset](https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20Data%20set.xlsx)
-[Dashboard] ()
+[Dashboard] (https://github.com/binoyyy7/Call-centre-analytics-dashboard/blob/main/Call%20centre%20report%20dashboard.xlsx)
+[Dashboard Screenshot]()
 
